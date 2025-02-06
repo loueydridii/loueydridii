@@ -3,7 +3,7 @@
 Let's connect and build something awesome together! 🚀✨
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXB3eXI4MHpqMjNxY2M2cXczbWRlNmJhYXA0NzhuZWNzZHNlMGJ6dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btZ3T6y3JTmjg4w/giphy.gif" alt="Astronaut GIF" width="500">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXB3eXI4MHpqMjNxY2M2cXczbWRlNmJhYXA0NzhuZWNzZHNlMGJ6dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btZ3T6y3JTmjg4w/giphy.gif" alt="Astronaut GIF" width="1500">
 </div>
 
 ---
@@ -17,6 +17,8 @@ Let's connect and build something awesome together! 🚀✨
 🎮 In my free time, you'll find me gaming, exploring new tech, or refining my designing skills.  
 ---
 
+
+
 🔧 **Skills:**
 
 - **Programming & Web Development:** HTML, CSS, JavaScript, Python, C  
@@ -24,7 +26,6 @@ Let's connect and build something awesome together! 🚀✨
 - **Marketing & Business:** Content Creation, Brand Management, Market Analysis  
 - **IT Tools:** Cybersecurity Basics, Social Media Optimization, Event Promotion
 
----
 ---
 
 🌌 **Connect with Me:**
