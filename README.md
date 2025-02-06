@@ -1,6 +1,6 @@
 <!-- Header Section with Wallpaper Background -->
-<div align="center">
-  <img src="https://i.postimg.cc/Bnkc4513/sunset-scenery-minimalist-digital-art-2k-wallpaper-uhdpaper-com-172-5-b.jpg" alt="Sunset Scenery Wallpaper" width="100%"/>
+<div align="center"  style="position: relative; text-align: center; color: white;">
+  <img src="https://i.postimg.cc/Bnkc4513/sunset-scenery-minimalist-digital-art-2k-wallpaper-uhdpaper-com-172-5-b.jpg" alt="Sunset Scenery Wallpaper" width="100%"  style="width: 100%; height: auto; position: absolute; top: 0; left: 0; z-index: -1;"/>
   <h1>👋 Hi, I'm Louey Dridi</h1>
   <p>Let's connect and build something awesome together! 🚀✨</p>
 </div>
