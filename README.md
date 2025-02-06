@@ -1,9 +1,5 @@
 <!-- Header Section with Wallpaper Background -->
-<div align="center">
-  <img src="" width="100%"/>
-</div>
-![alt bio](https://drive.google.com/file/d/1g1_QO5tqVvPIaPDNRA_AaCOep3tf1WB0/view?usp=sharing)
----
+![alt text](https://github.com/[loueydridii]/[loueydridii]/blob/[main]/Hi!.png?raw=true)
 
 <!-- About Me Section -->
 ## 🚀 **About Me**
