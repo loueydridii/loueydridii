@@ -1,4 +1,5 @@
 # Hi, I'm Louey Dridi! 👋
+![Banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2JxdmM2MGdvOThpcnU0ZWF3MnU4cHZmYW02ZGdqZmprNWE2eTI4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3FjEPbKqEPhPpmC8uY/giphy.gif)
 
 🎓 I'm a **sophomore student** at Tunis Business School, exploring the fields of **IT** and **Business Analytics**.  
 💻 Passionate about **web development**, **graphic design**, and **data analytics**, with a growing interest in **AI** and **nanotech**.  
