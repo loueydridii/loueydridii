@@ -1,5 +1,7 @@
 <!-- Header Section with Wallpaper Background -->
-![alt text](https://github.com/[loueydridii]/[loueydridii]/blob/[main]/Hi!.png?raw=true)
+<div align="center">
+  <img src="https://i.postimg.cc/W3FcqQGd/Hi.png" alt="Header Image" width="100%"/>
+</div>
 
 <!-- About Me Section -->
 ## 🚀 **About Me**
