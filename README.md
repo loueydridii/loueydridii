@@ -3,7 +3,7 @@
 Let's connect and build something awesome together! 🚀✨
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXB3eXI4MHpqMjNxY2M2cXczbWRlNmJhYXA0NzhuZWNzZHNlMGJ6dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btZ3T6y3JTmjg4w/giphy.gif" alt="Astronaut GIF" width="1500">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRqbmU0NzJuZXNnMzdxYnA0Z2VvOXI3ejVjcWJna3dveGRsZ2hsMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YkOInyW8oZHPvI8aDW/giphy.gif" alt="Astronaut GIF" width="1500">
 </div>
 
 ---
