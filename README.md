@@ -1,7 +1,7 @@
 # Hi, I'm Louey Dridi! 👋
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmx2ZnhhOXI3OTl1cTYxcHA3a3hvbjFkZzdlZDZjeXY1Yms4dXh0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sJvz8Qnfly3BOuotGx/giphy.gif" alt="Animated GIF" width="1500">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmx2ZnhhOXI3OTl1cTYxcHA3a3hvbjFkZzdlZDZjeXY1Yms4dXh0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sJvz8Qnfly3BOuotGx/giphy.gif" alt="Animated GIF">
 </div>
 
 
