@@ -3,8 +3,9 @@
 Let's connect and build something awesome together! 🚀✨
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXd5dzV5czA2b2U3eWNlNGx6ZnI3cGhlOXN1dzBzZ3JsaG1ocWl5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YkOInyW8oZHPvI8aDW/giphy.gif" alt="gif" width="500">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXd5dzV5czA2b2U3eWNlNGx6ZnI3cGhlOXN1dzBzZ3JsaG1ocWl5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YkOInyW8oZHPvI8aDW/giphy.gif" alt="GIF" width="500">
 </div>
+
 
 ---
 
