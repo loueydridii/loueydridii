@@ -1,6 +1,6 @@
-<!-- Header Section with GIF Background -->
+<!-- Header Section with Wallpaper Background -->
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXd5dzV5czA2b2U3eWNlNGx6ZnI3cGhlOXN1dzBzZ3JsaG1ocWl5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YkOInyW8oZHPvI8aDW/giphy.gif" alt="Space GIF" width="100%"/>
+  <img src="https://www.uhdpaper.com/2025/01/1725b-sunset-scenery-minimalist-8k.html?m=0" alt="Sunset Scenery Wallpaper" width="100%"/>
   <h1>👋 Hi, I'm Louey Dridi</h1>
   <p>Let's connect and build something awesome together! 🚀✨</p>
 </div>
@@ -57,17 +57,6 @@
 
 ---
 
-<!-- Floating Emojis Section -->
-## 🌌 **Floating Emojis**
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7TKsrf5gRq7Rq3IQ/giphy.gif" width="50" height="50" />
-  <img src="https://media.giphy.com/media/3o7TKsrf5gRq7Rq3IQ/giphy.gif" width="50" height="50" />
-  <img src="https://media.giphy.com/media/3o7TKsrf5gRq7Rq3IQ/giphy.gif" width="50" height="50" />
-</div>
-
----
-
 <!-- Connect with Me Section -->
 ## 🌌 **Connect with Me**
 
@@ -85,7 +74,6 @@
 
 <!-- Footer Section -->
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7TKsrf5gRq7Rq3IQ/giphy.gif" width="50" height="50" />
   <p>Made with ❤️ by Louey Dridi</p>
 </div>
 <!--
