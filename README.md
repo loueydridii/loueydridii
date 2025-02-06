@@ -2,11 +2,7 @@
 
 Let's connect and build something awesome together! 🚀✨
 
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXd5dzV5czA2b2U3eWNlNGx6ZnI3cGhlOXN1dzBzZ3JsaG1ocWl5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YkOInyW8oZHPvI8aDW/giphy.gif" alt="GIF" width="500">
-</div>
-
-
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/YkOInyW8oZHPvI8aDW" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/adweek-YkOInyW8oZHPvI8aDW">via GIPHY</a></p>
 ---
 
 🚀 **About Me:**
