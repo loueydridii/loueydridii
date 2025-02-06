@@ -37,7 +37,6 @@
 ![Market Analysis](https://img.shields.io/badge/Market_Analysis-00BFFF?style=for-the-badge&logo=google-analytics&logoColor=white)
 
 ### IT Tools
-![lllll](https://img.shields.io/badge/Cybersecurity-4B0082?style=for-the-badge&logo=cybersecurity&logoColor=white)
 ![Social Media Optimization](https://img.shields.io/badge/Social_Media_Optimization-FF4500?style=for-the-badge&logo=instagram&logoColor=white)
 ![Event Promotion](https://img.shields.io/badge/Event_Promotion-8A2BE2?style=for-the-badge&logo=eventbrite&logoColor=white)
 
