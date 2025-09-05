@@ -66,9 +66,4 @@
 
 ---
 
-<!-- Footer Section -->
-<div align="center">
-  <p>Made with ❤️ by Louey Dridi</p>
-</div>
-<!--
 
