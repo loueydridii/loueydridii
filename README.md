@@ -1,69 +1,81 @@
-<!-- Header Section with Wallpaper Background -->
+<!-- Header Section -->
 <div align="center">
   <img src="https://i.postimg.cc/W3FcqQGd/Hi.png" alt="Header Image" width="100%"/>
 </div>
 
-<!-- About Me Section -->
-## 🚀 **About Me**
-
-🎓 I'm a **sophomore student** at Tunis Business School, exploring the fields of **IT** and **Business Analytics**.  
-💻 Passionate about **web development**, **graphic design**, and **data analytics**, with a growing interest in **AI** and **nanotech**.  
-🚀 I love creating projects that merge tech and creativity.  
-🌍 Active in various clubs and volunteering roles, always eager to apply my skills in real-world scenarios and help my community.  
-🎮 In my free time, you'll find me gaming, exploring new tech, or refining my designing skills.  
+<h1 align="center">Hey, I'm Louey Dridi 🇹🇳</h1>
+<p align="center">
+Business & IT Student • Backend Developer • Data Enthusiast
+</p>
 
 ---
 
-<!-- Skills Section with Charts -->
-## 🔧 **Skills**
+## 🚀 About Me
 
-### Programming & Web Development
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### Graphic Design
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-FF7C00?style=for-the-badge&logo=blackmagic-design&logoColor=white)
-
-### Marketing & Business
-![Content Creation](https://img.shields.io/badge/Content_Creation-FF6F61?style=for-the-badge&logo=creative-commons&logoColor=white)
-![Brand Management](https://img.shields.io/badge/Brand_Management-FFD700?style=for-the-badge&logo=brandfolder&logoColor=white)
-![Market Analysis](https://img.shields.io/badge/Market_Analysis-00BFFF?style=for-the-badge&logo=google-analytics&logoColor=white)
-
-### IT Tools
-![Social Media Optimization](https://img.shields.io/badge/Social_Media_Optimization-FF4500?style=for-the-badge&logo=instagram&logoColor=white)
-![Event Promotion](https://img.shields.io/badge/Event_Promotion-8A2BE2?style=for-the-badge&logo=eventbrite&logoColor=white)
+🎓 Business & IT student at Tunis Business School  
+💻 Backend-focused developer working with **Python, APIs, and databases**  
+📊 Skilled in **data analytics and data-driven problem solving**  
+⚙️ Comfortable with **Linux systems and development environments**  
+🎨 Also experienced in **graphic design and video editing**  
 
 ---
 
-<!-- GitHub Stats Section -->
-## 📊 **GitHub Stats**
+## 🧠 What I Do
+
+- 🔗 Build REST APIs and backend systems  
+- 🗄️ Design and manage databases  
+- 📊 Analyze data using Python and R  
+- ⚙️ Work in Linux-based environments  
+- 🎨 Create digital and visual content  
+
+---
+
+## 🔧 Skills
+
+### 💻 Backend & Programming
+Python • Java • R • C  
+
+### 🌐 Backend & APIs
+REST APIs • Backend Architecture  
+
+### 🗄️ Databases
+PostgreSQL • MySQL • SQLite • MongoDB  
+
+### 📊 Data & Analytics
+Pandas • NumPy • Data Analysis • Visualization  
+
+### ⚙️ Systems
+Linux • System Administration  
+
+### 🎨 Creative
+Photoshop • After Effects • Figma • Canva • DaVinci Resolve  
+
+---
+
+## 📌 Featured Projects
+<!-- Replace these with real ones ASAP -->
+- 🚧 API-based project (Python + database)  
+- 📊 Data analysis project (Python / R)  
+- 🌐 Web-based project  
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true" />
 </div>
 
 ---
 
-<!-- Connect with Me Section -->
-## 🌌 **Connect with Me**
+## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louey-dridi-06ba98292/) 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/louey.dridi.1/) 
-
----
-
-<!-- Life Principle Section -->
-## 🌟 **Life Principle**
-
-> "Growth begins at the edge of your comfort zone. Embrace challenges, and you'll discover your true potential. 🚀🌌"
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louey-dridi-06ba98292/)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/louey.dridi.1/)  
 
 ---
 
+## ⚡ Philosophy
+
+> Build systems. Solve problems. Keep improving.
 
