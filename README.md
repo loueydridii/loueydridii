@@ -5,58 +5,47 @@
 
 <h1 align="center">Hey, I'm Louey Dridi 🇹🇳</h1>
 <p align="center">
-Business & IT Student • Backend Developer • Data Enthusiast
+IT & Business Analytics Student • Aspiring Data Scientist • UI/UX Designer • Backend Developper
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Business & IT student at Tunis Business School  
-💻 Backend-focused developer working with **Python, APIs, and databases**  
-📊 Skilled in **data analytics and data-driven problem solving**  
-⚙️ Comfortable with **Linux systems and development environments**  
-🎨 Also experienced in **graphic design and video editing**  
+🎓 IT & Business Analytics at Tunis Business School  
+📊 Passionate about **data science, analytics, and artificial intelligence**  
+💻 Strong foundation in **Python, databases, and problem-solving**  
+📈 Interested in extracting insights from data and building intelligent systems  
+🎨 Also experienced in **design and content creation**  
 
 ---
 
 ## 🧠 What I Do
 
-- 🔗 Build REST APIs and backend systems  
-- 🗄️ Design and manage databases  
-- 📊 Analyze data using Python and R  
-- ⚙️ Work in Linux-based environments  
-- 🎨 Create digital and visual content  
+- 📊 Analyze and interpret data using Python and R  
+- 🧮 Work with datasets to extract meaningful insights  
+- 🗄️ Manage and query databases  
+- ⚙️ Use Linux for development and workflows  
+- 🎯 Continuously learning AI and machine learning concepts  
 
 ---
 
 ## 🔧 Skills
 
-### 💻 Backend & Programming
-Python • Java • R • C  
+### 📊 Data Science & Analytics
+Python • Pandas • NumPy • Data Analysis • Data Visualization • R  
 
-### 🌐 Backend & APIs
-REST APIs • Backend Architecture  
+### 🤖 AI / Machine Learning (Learning)
+Scikit-learn • Machine Learning Fundamentals  
 
 ### 🗄️ Databases
 PostgreSQL • MySQL • SQLite • MongoDB  
 
-### 📊 Data & Analytics
-Pandas • NumPy • Data Analysis • Visualization  
-
-### ⚙️ Systems
-Linux • System Administration  
+### ⚙️ Tools & Systems
+Linux • Git • Development Environments  
 
 ### 🎨 Creative
 Photoshop • After Effects • Figma • Canva • DaVinci Resolve  
-
----
-
-## 📌 Featured Projects
-<!-- Replace these with real ones ASAP -->
-- 🚧 API-based project (Python + database)  
-- 📊 Data analysis project (Python / R)  
-- 🌐 Web-based project  
 
 ---
 
