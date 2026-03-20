@@ -1,8 +1,4 @@
 <!-- Header Section -->
-<div align="center">
-  <img src="https://i.postimg.cc/W3FcqQGd/Hi.png" alt="Header Image" width="100%"/>
-</div>
-
 <h1 align="center">Hey, I'm Louey Dridi 🇹🇳</h1>
 <p align="center">
 IT & Business Analytics Student • Aspiring Data Scientist • UI/UX Designer • Backend Developper
