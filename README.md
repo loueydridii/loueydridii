@@ -50,7 +50,6 @@ I like exploring beyond the boundaries of a single discipline. My background com
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Google_Gemini-886FBF?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
   <img src="https://img.shields.io/badge/LLM_Integration-5B5BD6?style=flat-square" alt="LLM Integration"/>
   <img src="https://img.shields.io/badge/AI_Agents-6E56CF?style=flat-square" alt="AI Agents"/>
